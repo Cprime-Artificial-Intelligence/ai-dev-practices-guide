@@ -9,7 +9,7 @@ The documentation is built using [MkDocs](https://www.mkdocs.org/) with the [Mat
 ### View the Documentation
 
 The documentation is automatically deployed to GitHub Pages and can be viewed at:
-https://aaronsb.github.io/ai-dev-practices-guide/
+https://cprime-artificial-intelligence.github.io/ai-dev-practices-guide/
 
 ### Local Development
 
@@ -19,7 +19,7 @@ To run the documentation locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aaronsb/ai-dev-practices-guide.git
+   git clone https://github.com/Cprime-Artificial-Intelligence/ai-dev-practices-guide.git
    cd ai-dev-practices-guide
    ```
 
@@ -61,7 +61,7 @@ To run the documentation locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aaronsb/ai-dev-practices-guide.git
+   git clone https://github.com/Cprime-Artificial-Intelligence/ai-dev-practices-guide.git
    cd ai-dev-practices-guide
    ```
 
@@ -99,7 +99,7 @@ The deployment process works in two stages:
 
 1. **GitHub Actions Workflow**: When changes are pushed to the main branch, a GitHub Actions workflow builds the MkDocs site and pushes the generated content to the `gh-pages` branch.
 
-2. **GitHub Pages**: GitHub's built-in Pages service then detects changes to the `gh-pages` branch and deploys the content to the public site at https://aaronsb.github.io/ai-dev-practices-guide/.
+2. **GitHub Pages**: GitHub's built-in Pages service then detects changes to the `gh-pages` branch and deploys the content to the public site at https://cprime-artificial-intelligence.github.io/ai-dev-practices-guide/.
 
 This two-stage process ensures that your documentation is always up-to-date with the content in your main branch.
 
