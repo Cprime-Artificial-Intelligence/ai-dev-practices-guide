@@ -1,7 +1,7 @@
 site_name: AI Development Practices Guide
 site_description: A guide to best practices and anti-patterns in AI development
 site_author: AI Development Team
-repo_url: https://github.com/aaronsb/ai-dev-practices-guide
+repo_url: https://github.com/Cprime-Artificial-Intelligence/ai-dev-practices-guide
 repo_name: ai-dev-practices-guide
 
 theme:
