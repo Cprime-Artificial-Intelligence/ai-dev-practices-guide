@@ -25,4 +25,4 @@ Next, you might consider the [Systems Thinking for AI Collaboration](overview/sy
 
 ## Contributing
 
-This is a living document. If you have suggestions for improvements or additional patterns to document, please feel free to contribute by submitting a pull request to our [GitHub repository](https://github.com/aaronsb/ai_coding_agent_practices).
+This is a living document. If you have suggestions for improvements or additional patterns to document, please feel free to contribute by submitting a pull request to our [GitHub repository](https://github.com/Cprime-Artificial-Intelligence/ai-dev-practices-guide/).
